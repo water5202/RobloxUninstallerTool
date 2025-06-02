@@ -1,4 +1,6 @@
+
 @echo off
+::chcp for UTF-8
 chcp 65001
 taskkill /F /IM robloxplayerbeta.exe
 cls
